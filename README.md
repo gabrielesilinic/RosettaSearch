@@ -1,2 +1,2 @@
 # RosettaSearch
-A collection of string distance algorithms  inplemented in multiple programming languages
+A collection of string distance algorithms  implemented in multiple programming languages 
